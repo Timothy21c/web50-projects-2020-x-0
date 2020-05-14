@@ -1,1 +1,1 @@
-# web50-projects-2020-x-0
+# My website is basically an introduction of myself. on first one, its introduction which introduces myself anda little bit of history of myself. Second is my hobbies and my interests and i included a table in my hobbies table that shows the lists of what i am selling and prices. Lastly, are fun facts about things some people doesnt know about and a bit about myself too.
